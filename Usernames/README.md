@@ -1,1 +1,2 @@
-The Usernames directory will hold a number of username lists that can be used by multiple tools when attempting to guess credentials for a given targeted service.
+Das Verzeichnis „Benutzernamen“ enthält eine Reihe von Benutzernamenlisten, die von mehreren Tools verwendet werden können, 
+wenn versucht wird, Anmeldeinformationen für einen bestimmten Zieldienst zu erraten.
